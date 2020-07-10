@@ -13,4 +13,4 @@
 
 ---
 
-Credit : https://github.com/sindresorhus
+Credit : [Sindre Sorhus](https://github.com/sindresorhus)
